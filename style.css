@@ -1,5 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;1,400;1,500&display=swap');
 /* top players */
+
+  .head{
+    background-color: #562EFF;
+    align-items: center;
+    color: #F3F1FF;
+  }
+  .left{
+    width: 1440px;
+    height: 94px;
+    padding-top: 24px;
+    padding-left: 300px;
+  }
+  nav{
+    display: flex;
+    justify-content:space-between ;
+  }
+  nav a {
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-right:20px ;
+}
+  .spans{
+    color: #F3F1FF;
+    font-size: 20px;
+  }
 body{
     font-family: 'poppins',sans-serif;
     background-color:#F3F1FF;
